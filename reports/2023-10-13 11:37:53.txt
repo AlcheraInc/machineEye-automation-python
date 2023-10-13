@@ -1,0 +1,25 @@
+2023-10-13 11:37:53/김민호/테스트기록 
+
+*** 운전면허증 / 1번째 시도 ***
+수행시간 : 4.0415 sec
+O 진위여부 : Pass
+O 이름 : Pass
+O 주민번호 : Pass
+O 발급일자 : Pass
+O 발행처 : Pass
+O 면허타입 : Pass
+O 면허번호 : Pass
+X 시리얼번호 : Fail
+>>> Real : 2EPD4 / OCR : 2E2PD4
+
+*** 운전면허증 / 2번째 시도 ***
+수행시간 : 2.9913 sec
+O 진위여부 : Pass
+O 이름 : Pass
+O 주민번호 : Pass
+O 발급일자 : Pass
+O 발행처 : Pass
+O 면허타입 : Pass
+O 면허번호 : Pass
+X 시리얼번호 : Fail
+>>> Real : 2EPD4 / OCR : 2E2PD4
